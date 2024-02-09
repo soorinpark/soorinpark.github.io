@@ -1,20 +1,20 @@
 {
-  "webcredentials": {
-    "apps": []
-  },
-  "applinks": {
-    "apps": [],
-    "details": {
-      {
-        "appIDs": [
-          "4QGZFKC72J.com.soorin.DemoApp
+    "webcredentials": {
+        "apps": []
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "4QGZFKC72J.com.soorin.DemoApp"
+                ]
+            }
         ]
-      }
+    },
+    "appclips": {
+        "apps": [
+            "4QGZFKC72J.com.soorin.DemoApp.Clip"
+        ]
     }
-  },
-  "appclips": {
-    "apps": [
-      "4QGZFKC72J.com.soorin.DemoApp.Clip"
-    ]
-  }
 }
