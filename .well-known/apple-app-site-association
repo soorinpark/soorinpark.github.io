@@ -4,7 +4,12 @@
   },
   "applinks": {
     "apps": [],
-    "details": {}
+    "details": {
+      {
+        "appIDs": [
+          "4QGZFKC72J.com.soorin.DemoApp
+        ]
+      }
     }
   },
   "appclips": {
