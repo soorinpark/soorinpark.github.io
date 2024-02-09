@@ -1,4 +1,12 @@
 {
+  "webcredentials": {
+    "apps": []
+  },
+  "applinks": {
+    "apps": [],
+    "details": {}
+    }
+  },
   "appclips": {
     "apps": [
       "4QGZFKC72J.com.soorin.DemoApp"
